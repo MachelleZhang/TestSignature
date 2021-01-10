@@ -3,7 +3,7 @@
 
 使用[UberSignature](https://github.com/uber/UberSignature)二次封装，添加背景图，操作按钮，便于使用。
 
-![test-image](/Users/MachelleZhang/TestSignature/Images/test-image.png)
+![test-image](./Images/test-image.png)
 
 
 
